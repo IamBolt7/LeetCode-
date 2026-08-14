@@ -13,6 +13,7 @@
 | [0010-regular-expression-matching](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/IamBolt7/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

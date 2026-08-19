@@ -29,6 +29,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
+| [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/IamBolt7/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/IamBolt7/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -40,12 +41,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/IamBolt7/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/IamBolt7/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -59,6 +62,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/IamBolt7/LeetCode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |

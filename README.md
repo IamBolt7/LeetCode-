@@ -31,6 +31,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IamBolt7/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

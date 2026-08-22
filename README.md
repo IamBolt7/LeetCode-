@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IamBolt7/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |

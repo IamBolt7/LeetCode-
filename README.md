@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/IamBolt7/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IamBolt7/LeetCode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -17,6 +18,7 @@
 | [0012-integer-to-roman](https://github.com/IamBolt7/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
+| [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -84,6 +87,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |

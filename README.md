@@ -36,6 +36,7 @@
 | [0014-longest-common-prefix](https://github.com/IamBolt7/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IamBolt7/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -48,6 +49,7 @@
 | [0011-container-with-most-water](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |

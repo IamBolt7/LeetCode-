@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/IamBolt7/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamBolt7/LeetCode-/tree/master/0013-roman-to-integer) |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/arnavdaftuar031-bot/LeetCode-/tree/master/0010-regular-expression-matching) |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IamBolt7/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -83,6 +86,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -91,6 +95,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -100,6 +105,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -127,4 +133,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IamBolt7/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->

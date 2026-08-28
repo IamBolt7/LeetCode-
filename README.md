@@ -26,6 +26,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IamBolt7/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IamBolt7/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -186,4 +188,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->

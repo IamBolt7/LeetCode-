@@ -49,6 +49,7 @@
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/IamBolt7/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/IamBolt7/LeetCode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/IamBolt7/LeetCode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/IamBolt7/LeetCode-/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -144,6 +145,7 @@
 | [0015-3sum](https://github.com/IamBolt7/LeetCode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/IamBolt7/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,4 +191,8 @@
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/IamBolt7/LeetCode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->

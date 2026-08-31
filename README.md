@@ -163,6 +163,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IamBolt7/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/IamBolt7/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/IamBolt7/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/IamBolt7/LeetCode-/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |

@@ -24,6 +24,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IamBolt7/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/IamBolt7/LeetCode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/IamBolt7/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1927-sum-game](https://github.com/IamBolt7/LeetCode-/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/IamBolt7/LeetCode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/IamBolt7/LeetCode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -76,6 +77,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IamBolt7/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamBolt7/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamBolt7/LeetCode-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -223,4 +225,20 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/IamBolt7/LeetCode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamBolt7/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

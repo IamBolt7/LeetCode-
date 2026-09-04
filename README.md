@@ -51,6 +51,7 @@
 | [0016-3sum-closest](https://github.com/IamBolt7/LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamBolt7/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/IamBolt7/LeetCode-/tree/master/0027-remove-element) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
@@ -74,6 +75,7 @@
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/IamBolt7/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamBolt7/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/IamBolt7/LeetCode-/tree/master/0027-remove-element) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/IamBolt7/LeetCode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |

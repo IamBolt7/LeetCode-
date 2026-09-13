@@ -62,6 +62,7 @@
 | [0018-4sum](https://github.com/IamBolt7/LeetCode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IamBolt7/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IamBolt7/LeetCode-/tree/master/0027-remove-element) |
+| [0835-image-overlap](https://github.com/IamBolt7/LeetCode-/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/IamBolt7/LeetCode-/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/IamBolt7/LeetCode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamBolt7/LeetCode-/tree/master/2029-stone-game-ix) |
@@ -243,6 +244,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/IamBolt7/LeetCode-/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/IamBolt7/LeetCode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String Matching
 |  |
